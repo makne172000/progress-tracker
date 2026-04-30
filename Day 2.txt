@@ -1,3 +1,4 @@
 Day 2:
 Learning more about the tools such as JRE, JDK, IDE.
 Entered Java Programming. Exploring first basic functions, IntelliJ to source code, more deep in source code like going to command prompt.
+Adding to edits to file, then put to Git, then to GitHub.
